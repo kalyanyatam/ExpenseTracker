@@ -1,5 +1,5 @@
 import styled, { keyframes } from 'styled-components';
-import { useWindowSize } from '../../utils/useWindowsize';// Ensure correct import
+import { useWindowSize } from '../../utils/useWindowSize';// Ensure correct import
 
 // Use useWindowSize inside a component
 const OrbComponent = () => {

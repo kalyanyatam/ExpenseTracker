@@ -25,7 +25,7 @@ export const GlobalStyle = createGlobalStyle`
     background-color: red;
     overflow:hidden;
     font-size: clamp(1rem, 1.5vw, 1.2rem);
-    color:rgba(34,34,96, .6);
+    color:rgba(34, 34, 96, .6);
   }
 
   a {
